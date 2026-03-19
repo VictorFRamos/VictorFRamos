@@ -37,14 +37,6 @@
 
 ---
 
-## 🔥 Projetos em destaque
-
-- 🚀 [Projeto Afiliado Shopee](#)  
-- ⚡ [API com FastAPI](#)  
-- 🎮 [Jogo estilo Top Gear em JS](#)  
-
----
-
 ## 🌐 Onde me encontrar
 
 <div> 
