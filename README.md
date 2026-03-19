@@ -40,7 +40,7 @@
 ## 🌐 Onde me encontrar
 
 <div> 
-  <a href="[https://linkedin.com/in/seu-link](https://www.linkedin.com/in/victor-ferraz-ramos-7870ba91/)" target="_blank">
+  <a href="https://www.linkedin.com/in/victor-ferraz-ramos-7870ba91" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:victorferrazramos@outlook.com">
