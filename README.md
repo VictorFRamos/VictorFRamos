@@ -58,6 +58,3 @@
 
 ---
 
-## 🐍 Snake comendo suas contribuições
-
-![Snake animation](https://github.com/VictorFRamos/VictorFRamos/blob/output/github-contribution-grid-snake.svg)
